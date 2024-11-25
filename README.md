@@ -26,3 +26,20 @@ Konsep Completer memberikan cara yang lebih canggih untuk mengelola operasi asin
 
 6. kontrol yang sangat granular
    Completer digunakan untuk kontrol yang sangat granular. jika perlu mengembalikan nilai setelah operasi maka pendekatan yang lebih sederhana seperti pada langkah 5-6
+
+7. Praktikum 4 Hasil
+   ![hasil](image-4.png)
+
+8. Jelaskan maksud perbedaan kode langkah 1 dan 4!
+   Future.wait() sangat berguna untuk meningkatkan kinerja dan efisiensi ketika menjalankan beberapa operasi asinkron secara paralel
+
+9. Praktikum 5 Hasil
+![hasil](image-5.png)
+
+Method handleError
+![hasil](image-6.png)
+
+Panggil method handleError() tersebut di ElevatedButton, lalu run. Apa hasilnya? Jelaskan perbedaan kode langkah 1 dan 4!
+
+Dengan menambahkan fungsi handleError(), kita telah membuat aplikasi menjadi lebih robust dan dapat menangani error dengan baik.
+
